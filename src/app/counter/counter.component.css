@@ -1,0 +1,51 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:gray;
+    height: 100vh;
+}
+
+.counter{
+    border: none;
+    box-shadow: 20%;
+    padding: 10%;
+    background-color: aliceblue;
+}
+
+.btn-div{
+    display: flex;
+    gap: 4px;
+
+}
+.btn1{
+    background-color: green;
+    border: none;
+    padding: 5%;
+    color: white;
+}
+
+.btn2{
+    background-color: red;
+    border: none;
+    padding: 5%;
+    color: white;
+}
+
+.btn3{
+    background-color: yellow;
+    border: none;
+    padding: 5%;
+
+}
+
+.para-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.para{
+    color: blue;
+    text-align: center;
+}
